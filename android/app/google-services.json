@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "800236525539",
+    "project_id": "app-pelis-df9c6",
+    "storage_bucket": "app-pelis-df9c6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800236525539:android:51d73486344e307005b2d6",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvu0mocBb3rx8UL18EtI33CyiOLfJx-bI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
